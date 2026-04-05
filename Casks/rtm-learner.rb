@@ -7,7 +7,7 @@ cask "rtm-learner" do
   desc "macOS menubar app for RTM Mandarin lesson pipeline"
   homepage "https://github.com/kuephi/rtm-learner"
 
-  app "RTMLearner.app"
+  app "RTM Learner.app"
 
   zap trash: [
     "~/Library/Application Support/RTMLearner",
